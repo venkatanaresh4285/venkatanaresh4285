@@ -15,8 +15,8 @@
 
 ## 📌 Projects  
 🔹 **[Smart Attendance & Behavioral Analytics](#)** – AI-powered system for real-time student monitoring  
-🔹 **[Student Performance Prediction](#)** – ML model to analyze and predict academic performance  
-🔹 **[Potato Disease Classification](#)** – Deep learning model for plant disease detection  
+🔹 **[Student Performance Prediction](https://github.com/venkatanaresh4285/Machine-Learning-Project)** – ML model to analyze and predict academic performance  
+🔹 **[Potato Disease Classification](https://github.com/venkatanaresh4285/Potato-Disease)** – Deep learning model for plant disease detection  
 
 ## 🏆 Achievements  
 ✅ GeeksforGeeks ML & Data Science Certification  
@@ -24,9 +24,9 @@
 ✅ 3⭐ C++ & 4⭐ C on HackerRank | Solved 400+ DSA problems  
 
 ## 💻 Coding Profiles  
-- **LeetCode:** [https://leetcode.com/u/venkatnaresh_7/](#)  
-- **GeeksforGeeks:** [https://www.geeksforgeeks.org/user/venkatanaresh24/](#)  
-- **HackerRank:** [https://www.hackerrank.com/profile/213j1a4285](#) *  
+- **LeetCode:** [venkatnaresh_7](https://leetcode.com/u/venkatnaresh_7/)  
+- **GeeksforGeeks:** [venkatanaresh24](https://www.geeksforgeeks.org/user/venkatanaresh24/)  
+- **HackerRank:** [venkatanaresh_7](https://www.hackerrank.com/profile/213j1a4285) *  
 
 ## 🌱 Learning & Interests  
 🔹 Machine Learning & Deep Learning  
@@ -34,8 +34,8 @@
 
 ## 📫 Connect with Me  
 📧 Email: venkatanaresh578@gmail.com  
-💼 LinkedIn: [https://www.linkedin.com/in/nandarapu-venkata-naresh/](#)  
-📂 Portfolio: [https://venkatanaresh4285.github.io/venkatanaresh4285/](#)  
+💼 LinkedIn: [Nandarapu Venkata Naresh](https://www.linkedin.com/in/nandarapu-venkata-naresh/)  
+📂 Portfolio: [venkatanaresh.in](https://github.com/venkatanaresh4285#) 
 
 ---
 
