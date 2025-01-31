@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Naresh Padepalli!
+# 👋 Hi, I'm Venkata Naresh!
 
 ## 🚀 About Me  
 🎓 Final Year B.Tech CSE (AIML) Student at Raghu Institute of Technology, Visakhapatnam  
