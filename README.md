@@ -35,7 +35,7 @@
 ## 📫 Connect with Me  
 📧 Email: venkatanaresh578@gmail.com  
 💼 LinkedIn: [Nandarapu Venkata Naresh](https://www.linkedin.com/in/nandarapu-venkata-naresh/)  
-📂 Portfolio: [venkatanaresh.in](https://github.com/venkatanaresh4285#) 
+📂 Portfolio: [venkatanaresh.in](https://venkatanaresh4285.github.io/venkatanaresh4285/) 
 
 ---
 
