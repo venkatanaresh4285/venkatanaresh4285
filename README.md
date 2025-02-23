@@ -16,7 +16,7 @@
 ## 📌 Projects  
 🔹 **[Smart Attendance & Behavioral Analytics](#)** – AI-powered system for real-time student monitoring  
 🔹 **[Student Performance Prediction](https://github.com/venkatanaresh4285/Machine-Learning-Project)** – ML model to analyze and predict academic performance  
-🔹 **[Potato Disease Classification](https://github.com/venkatanaresh4285/Potato-Disease)** – Deep learning model for plant disease detection  
+🔹 **[AgriLeaf_Diagnostics](https://github.com/venkatanaresh4285/Potato-Disease)** – Deep learning model for plant disease detection  
 
 ## 🏆 Achievements  
 ✅ GeeksforGeeks ML & Data Science Certification  
